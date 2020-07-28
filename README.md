@@ -19,8 +19,6 @@ An automatic download to Family Search files. You can load or download all the f
     <br />
     An automatic download to Family Search files. You can load or download all the files in a book.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/MatheusRuggeri/FamilySearchDownloader/issues">Report Bug</a>
   </p>
